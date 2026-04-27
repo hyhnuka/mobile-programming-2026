@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331372763701",
+    "project_id": "sipanitia-cc30e",
+    "storage_bucket": "sipanitia-cc30e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331372763701:android:1384df1544d874b563af7c",
+        "android_client_info": {
+          "package_name": "com.example.sipanitia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UfB0pXcX3fPfXBeyVhbG-MtawSSbYSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
