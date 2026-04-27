@@ -28,7 +28,7 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
 * [Android Studio](https://developer.android.com/studio) atau VS Code
 * Proyek [Firebase](https://console.firebase.google.com/) yang sudah terkonfigurasi
 
-## 🔧 Instalasi
+## Instalasi
 
 1.  **Clone repositori:**
     ```bash
