@@ -21,6 +21,11 @@ Aplikasi ini dibangun menggunakan **Flutter** dengan integrasi **Firebase** untu
 * **Icons:** Iconsax
 * **Resource:** Image Picker (Camera)
 
+## Interface
+* Login & Registrasi
+
+
+
 ## How to Run
 
 Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
