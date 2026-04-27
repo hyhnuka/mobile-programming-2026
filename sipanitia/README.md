@@ -27,8 +27,18 @@ Aplikasi ini dibangun menggunakan **Flutter** dengan integrasi **Firebase** untu
   <img src="https://github.com/user-attachments/assets/4fc6370d-8621-47ba-ab48-f459be03406f" width="20%"/>
   <img src="https://github.com/user-attachments/assets/88fdf45e-04c5-434d-bc5d-9e3ffafe2f84" width="20%"/>
 </p>
-
-
+* Dashboard & Insight Admin
+<p align="center">
+  <img width="789" height="1600" alt="WhatsApp Image 2026-04-27 at 1 45 12 PM" src="https://github.com/user-attachments/assets/073dd41e-f6aa-45c7-85db-e49e7bdf1991" />
+  <img width="792" height="1600" alt="WhatsApp Image 2026-04-27 at 1 45 12 PM (1)" src="https://github.com/user-attachments/assets/3ee9bff5-4618-4d13-aa61-b0a1dbf9abb7" />
+  <img width="788" height="1600" alt="WhatsApp Image 2026-04-27 at 1 45 12 PM (2)" src="https://github.com/user-attachments/assets/8877f22f-3df3-46fb-9ce0-a4a5596de7da" />
+</p>
+* Dashboard & Insight Member
+<p align="center">
+  <img width="790" height="1600" alt="WhatsApp Image 2026-04-27 at 1 43 24 PM" src="https://github.com/user-attachments/assets/c3a46c83-423e-42c3-bfaf-f5d2cffc15d6" />
+  <img width="791" height="1600" alt="WhatsApp Image 2026-04-27 at 1 43 24 PM (2)" src="https://github.com/user-attachments/assets/5f7fbc8c-be55-4660-9e3e-9bb77d77bad5" />
+  <img width="790" height="1599" alt="WhatsApp Image 2026-04-27 at 1 43 23 PM" src="https://github.com/user-attachments/assets/dbeb5391-d385-4ae2-8c90-345584c28ec4" />
+</p>
 
 ## How to Run
 
