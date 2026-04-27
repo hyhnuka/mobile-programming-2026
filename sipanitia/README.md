@@ -23,10 +23,10 @@ Aplikasi ini dibangun menggunakan **Flutter** dengan integrasi **Firebase** untu
 
 ## Interface
 * Login & Registrasi
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/4fc6370d-8621-47ba-ab48-f459be03406f" width="45%">
-  <img src="https://github.com/user-attachments/assets/88fdf45e-04c5-434d-bc5d-9e3ffafe2f84" width="45%">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fc6370d-8621-47ba-ab48-f459be03406f" width="20%"/>
+  <img src="https://github.com/user-attachments/assets/88fdf45e-04c5-434d-bc5d-9e3ffafe2f84" width="20%"/>
+</p>
 
 
 
