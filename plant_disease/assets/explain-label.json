@@ -1,0 +1,149 @@
+{
+  "Pepper Bell Bacterial Spot": {
+    "penyebab": "Disebabkan oleh bakteri Xanthomonas campestris pv. vesicatoria yang menyebar melalui benih, percikan air, alat pertanian, dan kondisi lembap.",
+    "penanganan": [
+      "Gunakan benih bebas penyakit.",
+      "Hindari penyiraman langsung pada daun.",
+      "Buang daun atau tanaman yang terinfeksi.",
+      "Lakukan rotasi tanaman selama 2-3 musim.",
+      "Gunakan bakterisida berbahan tembaga jika diperlukan."
+    ]
+  },
+  "Pepper Bell Healthy": {
+    "penyebab": "Tanaman dalam kondisi sehat dan tidak menunjukkan gejala penyakit.",
+    "penanganan": [
+      "Pertahankan pola penyiraman yang baik.",
+      "Berikan pupuk secara seimbang.",
+      "Pastikan sirkulasi udara cukup.",
+      "Lakukan pemeriksaan rutin terhadap hama dan penyakit."
+    ]
+  },
+  "Potato Early Blight": {
+    "penyebab": "Disebabkan oleh jamur Alternaria solani yang berkembang pada kondisi hangat dan lembap.",
+    "penanganan": [
+      "Buang daun yang terinfeksi.",
+      "Gunakan fungisida sesuai anjuran.",
+      "Hindari kelembapan berlebih.",
+      "Lakukan rotasi tanaman.",
+      "Gunakan varietas tahan penyakit."
+    ]
+  },
+  "Potato Healthy": {
+    "penyebab": "Tanaman kentang sehat tanpa tanda infeksi.",
+    "penanganan": [
+      "Lanjutkan perawatan rutin.",
+      "Jaga kelembapan tanah tetap stabil.",
+      "Gunakan pupuk yang sesuai kebutuhan.",
+      "Pantau kemungkinan munculnya penyakit."
+    ]
+  },
+  "Potato Late Blight": {
+    "penyebab": "Disebabkan oleh Phytophthora infestans yang cepat menyebar pada cuaca dingin dan lembap.",
+    "penanganan": [
+      "Segera musnahkan tanaman yang terinfeksi.",
+      "Gunakan fungisida anti-blight.",
+      "Hindari genangan air.",
+      "Gunakan bibit sehat.",
+      "Lakukan rotasi tanaman."
+    ]
+  },
+  "Tomato Bacterial Spot": {
+    "penyebab": "Disebabkan oleh bakteri Xanthomonas spp. yang menyerang daun dan buah tomat.",
+    "penanganan": [
+      "Gunakan benih steril.",
+      "Buang bagian tanaman yang sakit.",
+      "Kurangi kelembapan daun.",
+      "Gunakan bakterisida berbahan tembaga.",
+      "Bersihkan alat pertanian secara rutin."
+    ]
+  },
+  "Tomato Early Blight": {
+    "penyebab": "Disebabkan oleh jamur Alternaria solani yang menyerang daun tua terlebih dahulu.",
+    "penanganan": [
+      "Buang daun terinfeksi.",
+      "Gunakan fungisida.",
+      "Jaga jarak tanam agar tidak terlalu rapat.",
+      "Lakukan rotasi tanaman.",
+      "Hindari penyiraman berlebihan."
+    ]
+  },
+  "Tomato Healthy": {
+    "penyebab": "Tanaman tomat dalam kondisi sehat.",
+    "penanganan": [
+      "Pertahankan nutrisi dan penyiraman yang baik.",
+      "Lakukan monitoring rutin.",
+      "Pastikan tanaman mendapat sinar matahari cukup.",
+      "Cegah hama sejak dini."
+    ]
+  },
+  "Tomato Late Blight": {
+    "penyebab": "Disebabkan oleh Phytophthora infestans yang menyebabkan bercak gelap dan pembusukan.",
+    "penanganan": [
+      "Buang tanaman yang terinfeksi berat.",
+      "Gunakan fungisida khusus.",
+      "Hindari kelembapan tinggi.",
+      "Pastikan sirkulasi udara baik.",
+      "Gunakan varietas tahan penyakit."
+    ]
+  },
+  "Tomato Leaf Mold": {
+    "penyebab": "Disebabkan oleh jamur Passalora fulva yang berkembang di lingkungan lembap.",
+    "penanganan": [
+      "Kurangi kelembapan rumah tanam.",
+      "Buang daun yang terinfeksi.",
+      "Gunakan fungisida.",
+      "Tingkatkan ventilasi udara.",
+      "Hindari penyiraman pada daun."
+    ]
+  },
+  "Tomato Septoria Leaf Spot": {
+    "penyebab": "Disebabkan oleh jamur Septoria lycopersici yang menyerang daun tomat.",
+    "penanganan": [
+      "Buang daun yang terkena penyakit.",
+      "Gunakan fungisida yang sesuai.",
+      "Lakukan rotasi tanaman.",
+      "Jaga kebersihan area tanam.",
+      "Hindari percikan air ke daun."
+    ]
+  },
+  "Tomato Spotted Spider Mites": {
+    "penyebab": "Disebabkan oleh serangan tungau laba-laba yang menghisap cairan daun.",
+    "penanganan": [
+      "Semprot daun dengan air untuk mengurangi tungau.",
+      "Gunakan insektisida atau akarisida.",
+      "Jaga kelembapan lingkungan.",
+      "Buang daun yang rusak parah.",
+      "Periksa tanaman secara rutin."
+    ]
+  },
+  "Tomato Target Spot": {
+    "penyebab": "Disebabkan oleh jamur Corynespora cassiicola yang menyebabkan bercak melingkar.",
+    "penanganan": [
+      "Gunakan fungisida.",
+      "Buang daun yang terinfeksi.",
+      "Perbaiki sirkulasi udara.",
+      "Hindari kelembapan tinggi.",
+      "Lakukan rotasi tanaman."
+    ]
+  },
+  "Tomato Mosaic Virus": {
+    "penyebab": "Disebabkan oleh Tomato Mosaic Virus (ToMV) yang menyebar melalui kontak dan alat pertanian.",
+    "penanganan": [
+      "Cabut tanaman yang terinfeksi.",
+      "Sterilkan alat pertanian.",
+      "Gunakan benih tahan virus.",
+      "Hindari kontak langsung antar tanaman sakit dan sehat.",
+      "Kendalikan hama pembawa virus."
+    ]
+  },
+  "Tomato Yellow Leaf Curl Virus": {
+    "penyebab": "Disebabkan oleh Tomato Yellow Leaf Curl Virus (TYLCV) yang ditularkan oleh kutu kebul.",
+    "penanganan": [
+      "Kendalikan populasi kutu kebul.",
+      "Gunakan insektisida bila diperlukan.",
+      "Cabut tanaman yang terinfeksi.",
+      "Gunakan varietas tahan virus.",
+      "Pasang perangkap serangga."
+    ]
+  }
+}
