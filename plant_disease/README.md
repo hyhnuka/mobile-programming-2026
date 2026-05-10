@@ -54,8 +54,8 @@ Penyakit yang dapat dideteksi terbatas sebagai berikut:
 
 ```bash
 lib/
-├── main.dart              # Entry point aplikasi
-├── screens/               # Halaman UI aplikasi
+├── main.dart              
+├── screens/               # UI aplikasi
 ├── services/              # Database & Classifier AI
 └── widgets/               # Komponen widget reusable
 
