@@ -57,16 +57,18 @@ Penyakit yang dapat dideteksi terbatas sebagai berikut:
 
 ## Struktur Folder
 
+```bash
 lib/
- ├── main.dart             
- ├── screens/              
- ├── services/             # Database & Classifier AI
- └── widgets/              
-assets/
- ├── model_unquant.tflite  # Model AI
- ├── labels.txt            # Label kelas penyakit
- └── explain-label.json    # Database informasi penyakit
+├── main.dart              # Entry point aplikasi
+├── screens/               # Halaman UI aplikasi
+├── services/              # Database & Classifier AI
+└── widgets/               # Komponen widget reusable
 
+assets/
+├── model_unquant.tflite   # Model AI
+├── labels.txt             # Label kelas penyakit
+└── explain-label.json     # Database informasi penyakit
+```
 ---
 
 ## Instalasi
@@ -89,6 +91,6 @@ assets/
 
 ---
 
-## Sumber
-Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
-Model: 
+## Sumber Referensi
+**AI Model**: Menggunakan model TFLite yang digunakan oleh root458 (via Teachable Machine).
+**Dataset**: Kaggle
