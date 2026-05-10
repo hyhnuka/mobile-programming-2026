@@ -41,17 +41,12 @@ Penyakit yang dapat dideteksi terbatas sebagai berikut:
 
 ## Arsitektur & Teknologi
 
-### 1. Mobile Framework
-- **Flutter**: Sebagai kerangka utama pengembangan aplikasi.
-- **Animations Package**: Digunakan untuk implementasi *Container Transform* agar transisi antar halaman terasa premium.
-
-### 2. Machine Learning
-- **TFLite (tflite_v2)**: Menjalankan inferensi model `.tflite` secara *on-device*.
-- **Custom Model**: Model diklasifikasikan ke beberapa label tanaman (Pepper, Potato, Tomato, dll).
-
-### 3. Database & Storage
-- **SQLite (sqflite)**: Menyimpan metadata deteksi (label, tanggal, penyebab, path gambar).
-- **Path Provider**: Manajemen direktori penyimpanan gambar hasil foto ke dalam folder privat aplikasi.
+**Framework**: Flutter  
+**Machine Learning**: TensorFlow Lite (tflite_v2)  
+**Database Lokal**: SQLite (sqflite)  
+**Storage**: Path Provider  
+**Image Resource**: Image Picker (Camera & Gallery)  
+**Model**: Custom .tflite Plant Disease Classification Model  
 
 ---
 
