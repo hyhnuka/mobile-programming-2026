@@ -31,15 +31,11 @@ Penyakit yang dapat dideteksi terbatas sebagai berikut:
 ---
 
 ## User Interface (Screenshots)
-
-Silakan isi link gambar di bawah ini sesuai dengan hasil tangkapan layar aplikasimu:
-
-| Dashboard | Detection Result | Detail View |
-| :---: | :---: | :---: | :---: |
-| !<img width="590" height="1599" alt="WhatsApp Image 2026-05-10 at 11 26 52 PM" src="https://github.com/user-attachments/assets/57a9192f-61df-4de3-ad73-c2981cc4a4c5" />
- | !<img width="588" height="1600" alt="WhatsApp Image 2026-05-10 at 11 26 53 PM" src="https://github.com/user-attachments/assets/41f1551f-9b95-4b3f-9ef0-5a9768434685" />
- | !<img width="590" height="1600" alt="WhatsApp Image 2026-05-10 at 11 26 53 PM (1)" src="https://github.com/user-attachments/assets/237f81e7-d47b-442a-b046-8bc761dc7674" />
- |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57a9192f-61df-4de3-ad73-c2981cc4a4c5" width="25%"/>
+  <img src="https://github.com/user-attachments/assets/41f1551f-9b95-4b3f-9ef0-5a9768434685" width="25%"/>
+  <img src="https://github.com/user-attachments/assets/237f81e7-d47b-442a-b046-8bc761dc7674" width="25%"/>
+</p>
 
 ---
 
