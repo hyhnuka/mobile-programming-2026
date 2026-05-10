@@ -87,5 +87,6 @@ assets/
 ---
 
 ## Sumber Referensi
-**AI Model**: Menggunakan model TFLite yang digunakan oleh root458 (via Teachable Machine).
+
+**AI Model**: Menggunakan model TFLite yang digunakan oleh root458 (via Teachable Machine)
 **Dataset**: Kaggle
