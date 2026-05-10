@@ -15,7 +15,7 @@ Aplikasi ini dibangun menggunakan **Flutter** dengan integrasi **Firebase** untu
 
 ## Login & Registrasi
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/558c3658-6b57-4647-8ca3-47df1138393c" width="25%"/>
+  <img src="https://github.com/user-attachments/assets/558c3658-6b57-4647-8ca3-47df1138393c" width="50%"/>
 </p>
 
 ## Dashboard & Insight Admin
