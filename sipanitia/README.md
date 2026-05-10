@@ -14,7 +14,9 @@ Aplikasi ini dibangun menggunakan **Flutter** dengan integrasi **Firebase** untu
 * **Statistik & Insight:** Halaman dashboard visual yang menampilkan persentase progres divisi, total tugas, dan jumlah PIC aktif.
 
 ## Login & Registrasi
-<img alt="Screenshot 2026-04-27 104219" src="https://github.com/user-attachments/assets/558c3658-6b57-4647-8ca3-47df1138393c" width=25%  />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/558c3658-6b57-4647-8ca3-47df1138393c" width="25%"/>
+</p>
 
 ## Dashboard & Insight Admin
 <p align="center">
